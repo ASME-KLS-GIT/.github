@@ -1,21 +1,40 @@
-# WELCOME TO ASMEKLSGIT's GITHUB ORGANISATION!
-```
-![Static Badge](https://img.shields.io/badge/ASME-GIT?style=for-the-badge)
-```
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:001B23,100:2E5A89&height=220&section=header&text=ASME%20KLSGIT&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ASME%20Student%20Section%20%E2%80%94%20KLS%20Gogte%20Institute%20of%20Technology&descAlignY=58&descSize=18&fontAlign=50)
+
+[![My Skills|](https://skillicons.dev/icons?i=git,github,cpp,ros)]
+---
+---
+
+![ASME STUDENT SECTION|189](https://img.shields.io/badge/ASME_STUDENT_SECTION-0072CE?style=for-the-badge&logoColor=white)![ASME-KLSGIT|115](https://img.shields.io/badge/ASME--KLSGIT-FF0000?style=for-the-badge&logoColor=white)
 This is an Organisation maintained by the student section's ASME club members of KLS Gogte Institute of Technology .
 
 ---
-
 ## ABOUT US 
-We are a team an interdisciplinary mix of enthusiastic engineering undergrads who are constantly working on some or the other topics in their own field.
+We are a team an interdisciplinary mix of enthusiastic engineering undergrads and graduates who are constantly working on different engineering skills and engineering projects.
+
+
+---
+## ABOUT THE ASME-KLSGIT GITHUB ORGANISATION
 
 ---
 
-## ABOUT THE ASME-KLS-GIT GITHUB ORGANISATION
 
-The intent of maintaining this organisation was mainly to share the learning resources that we ourselves have used in order to learn a particular topic 
+The intent of maintaining this organisation was mainly to share the learning resources that we ourselves have used in order to learn a particular topic. 
 
-This organisation will also contain the Projects that our club members have made over the years and have willingly open-sourced the projects so that anyone who is interested can utilize the details shared in order to create their own versions of the Project.
+This organisation will also contain the Projects that our club members have made over the years and have willingly open-sourced the projects so that anyone who is interested can utilize the details shared in order to create their own versions of the projects.
+
+Our interdisciplinary mix of members , brings forward a diverse palette of projects with varying gradients of difficulty and complexity.
+
+The **ASMEKLSGIT** organisation shall also consist of academia style notes and resources shared on theoretical topics , if the reader is interested in that they could indulge all they want into the theoretical/academia side of engineering. 
 
 The organisation will be gaining its contributions primarily through the club members of the ASME KLSGIT Student Section , but we are also open to people wanting to contribute to particular topics irrespective of their belonging to the ASME Student Section of KLS GIT or the ASME Club Itself.
+
+---
+## CONTRIBUTING TO THE ORGANISATION
+---
+As of now , only the members of the organisation are allowed to collaborate , which will be changed soon . If you have resources or materials you'd like to post onto this organisation , you will have to maintain a repository on your personal account and mail us at our email address . 
+The admins will review your work and if found satisfactory you will be added as a member.
+
+
 

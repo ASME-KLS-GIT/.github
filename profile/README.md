@@ -1,9 +1,17 @@
-# WELCOME 
-This is an Organisation maintained by the student section's ASME club members of KLS Gogte Institute of Technology 
-# ABOUT US 
+# WELCOME TO ASMEKLSGIT's GITHUB ORGANISATION!
+```
+![Static Badge](https://img.shields.io/badge/ASME-GIT?style=for-the-badge)
+```
+This is an Organisation maintained by the student section's ASME club members of KLS Gogte Institute of Technology .
+
+---
+
+## ABOUT US 
 We are a team an interdisciplinary mix of enthusiastic engineering undergrads who are constantly working on some or the other topics in their own field.
 
-# ABOUT THE ASMEKLSGIT GITHUB ORGANISATION
+---
+
+## ABOUT THE ASME-KLS-GIT GITHUB ORGANISATION
 
 The intent of maintaining this organisation was mainly to share the learning resources that we ourselves have used in order to learn a particular topic 
 

@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:001B23,100:2E5A89&height=220&section=header&text=ASME%20KLSGIT&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ASME%20Student%20Section%20%E2%80%94%20KLS%20Gogte%20Institute%20of%20Technology&descAlignY=58&descSize=18&fontAlign=50)
 
-[![My Skills|](https://skillicons.dev/icons?i=git,github,cpp,ros)]
+![My Skills|](https://skillicons.dev/icons?i=git,github,cpp,ros)
 ---
 ---
 

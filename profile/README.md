@@ -1,6 +1,6 @@
 <div align="center">
 
-![ASME KLSGIT](https://github.com/ASME-KLS-GIT/.github/blob/master/profile/assets/githubbannerwithlogo.png)
+![ASME KLSGIT](https://github.com/ASME-KLS-GIT/.github/blob/master/profile/assets/githubbannerwithlogo.jpeg)
 
 </div>
 

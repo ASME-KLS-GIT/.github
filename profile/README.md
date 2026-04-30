@@ -36,6 +36,22 @@ The **ASMEKLSGIT** organisation shall also consist of academia style notes and r
 The organisation will be gaining its contributions primarily through the club members of the ASME KLSGIT Student Section , but we are also open to people wanting to contribute to particular topics irrespective of their belonging to the ASME Student Section of KLS GIT or the ASME Club Itself.
 
 ---
+---
+## ADMIN STATS
+---
+<div align="center">
+
+## Admin Contribution Board
+
+| | |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api?username=fuzzytron-Vivek&show_icons=true&bg_color=D4F1FF&title_color=4A4B77&icon_color=4F9ADE&hide_border=true" width="100%"/> | <img src="https://github-readme-stats.vercel.app/api?username=Phineasgenius&show_icons=true&bg_color=D4F1FF&title_color=4A4B77&icon_color=4F9ADE&hide_border=true" width="100%"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=ASMEKLSGIT&show_icons=true&bg_color=D4F1FF&title_color=4A4B77&icon_color=4F9ADE&hide_border=true" width="100%"/> | <img src="https://github-readme-stats.vercel.app/api?username=USER4&show_icons=true&bg_color=D4F1FF&title_color=4A4B77&icon_color=4F9ADE&hide_border=true" width="100%"/> |
+
+</div>
+
+---
+---
 ## CONTRIBUTING TO THE ORGANISATION
 ---
 As of now , only the members of the organisation are allowed to collaborate , which will be changed soon . If you have resources or materials you'd like to post onto this organisation , you will have to maintain a repository on your personal account and mail us at our email address . 

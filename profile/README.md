@@ -46,7 +46,7 @@ The organisation will be gaining its contributions primarily through the club me
 | | |
 |---|---|
 | <img src="https://github-readme-stats.vercel.app/api?username=fuzzytron-Vivek&show_icons=true&bg_color=D4F1FF&title_color=4A4B77&icon_color=4F9ADE&hide_border=true" width="100%"/> | <img src="https://github-readme-stats.vercel.app/api?username=Phineasgenius&show_icons=true&bg_color=D4F1FF&title_color=4A4B77&icon_color=4F9ADE&hide_border=true" width="100%"/> |
-| <img src="https://github-readme-stats.vercel.app/api?username=ASMEKLSGIT&show_icons=true&bg_color=D4F1FF&title_color=4A4B77&icon_color=4F9ADE&hide_border=true" width="100%"/> | <img src="https://github-readme-stats.vercel.app/api?username=USER4&show_icons=true&bg_color=D4F1FF&title_color=4A4B77&icon_color=4F9ADE&hide_border=true" width="100%"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=ASMEKLSGIT&show_icons=true&bg_color=D4F1FF&title_color=4A4B77&icon_color=4F9ADE&hide_border=true" width="100%"/> | <img src="https://github-readme-stats.vercel.app/api?username=teroequinox&show_icons=true&bg_color=D4F1FF&title_color=4A4B77&icon_color=4F9ADE&hide_border=true" width="100%"/> |
 
 </div>
 

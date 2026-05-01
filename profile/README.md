@@ -36,12 +36,11 @@ The **ASMEKLSGIT** organisation shall also consist of academia style notes and r
 The organisation will be gaining its contributions primarily through the club members of the ASME KLSGIT Student Section , but we are also open to people wanting to contribute to particular topics irrespective of their belonging to the ASME Student Section of KLS GIT or the ASME Club Itself.
 
 ---
----
-## ADMIN STATS
+
 ---
 <div align="center">
 
-## Admin Contribution Board
+## ADMIN STATS
 
 | | |
 |---|---|

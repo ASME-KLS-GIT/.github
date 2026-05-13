@@ -14,36 +14,30 @@ This is an Organisation maintained by the ASME Student Section at KLS GIT.
 
 ---
 ## ABOUT US 
-The ASME Club at consists of Engineering Undergrads working on:
+The ASME Club at consists of engineering undergrads working on:
 
-1.CAD
-
-2.Robotics
-
-3.ROS
-
-4.Simulation 
-
-5.Machine Learning 
-
-6.Purely mechanical/Aeronautical concepts
+- CAD
+- Robotics
+- ROS
+- Simulation 
+- Machine Learning 
+- Mechanical Engineering Projects
+- Aeronautical Projects
+- Electronics and Electrical Projects
   
 ---
 ## ABOUT THE ASME-KLSGIT GITHUB ORGANISATION
 
-The intent of maintaining this organisation was mainly to share the learning resources that we ourselves have used in order to learn a particular topic. 
+This organisation shares the technical explorations carried out by the club,so that interested individuals can utilize the resources in order to tinker, learn and build.
 
-This organisation will also contain the Projects that our club members have made over the years and have willingly open-sourced  so that interested individuals can utilize the resources in order to tinker, learn and build .
-
- Things to look towards this organisation for:
-- Resources oriented in towards learning
-- Open Sources Projects built by the Club
-- Instructions on using industry standard tools like Git/Github , Autocad Fusion , Blender , Solidworks , Ardupilot etc explained through our own experience in using them on projects that we have shared.
+This github organisation consists of:
+- Resources oriented towards learning
+- Open Source Projects built by the Club
+- Instructions on using industry standard tools like Git/GitHub, AutoCAD Fusion 360, Blender, SolidWorks, ArduPilot, MAVLink.
 
 ---
 ## CONTRIBUTING TO THE ORGANISATION
-
-The organisation will be gaining its contributions primarily through the club members of the ASME KLSGIT Student Section , but external contributors are welcome.
+primary contributions to the organisation will be done through the ASME Student Section at KLSGIT, but external contributors are welcome.
 
 
 

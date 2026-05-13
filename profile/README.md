@@ -28,10 +28,10 @@ The ASME Club at consists of engineering undergrads working on:
 ---
 ## ABOUT THE ASME-KLSGIT GITHUB ORGANISATION
 
-This organisation shares the technical explorations carried out by the club,so that interested individuals can utilize the resources in order to tinker, learn and build.
+This organisation shares the technical explorations carried out by the club,so that interested individuals can use the resources in order to tinker, learn and build.
 
-This github organisation consists of:
-- Resources oriented towards learning
+This GitHub organisation consists of:
+- Beginner-oriented resources 
 - Open Source Projects built by the Club
 - Instructions on using industry standard tools like Git/GitHub, AutoCAD Fusion 360, Blender, SolidWorks, ArduPilot, MAVLink.
 

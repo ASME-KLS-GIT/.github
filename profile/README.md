@@ -10,7 +10,7 @@
 ---
 ![ASME STUDENT SECTION|189](https://img.shields.io/badge/ASME_STUDENT_SECTION-0072CE?style=for-the-badge&logoColor=white)![ASME-KLSGIT|115](https://img.shields.io/badge/ASME--KLSGIT-FF0000?style=for-the-badge&logoColor=white)
 
-This is an Organisation maintained by the student section's ASME club members of KLS Gogte Institute of Technology .
+This is an Organisation maintained by the ASME Student Section at KLS GIT.
 
 ---
 ## ABOUT US 

@@ -36,6 +36,16 @@ This GitHub organisation consists of:
 - Instructions on using industry standard tools like Git/GitHub, AutoCAD Fusion 360, Blender, SolidWorks, ArduPilot, MAVLink.
 
 ---
+## ORGANISATION ACTIVITY 
+
+
+![ASMEKLSGIT Org's stars](https://img.shields.io/github/stars/ASME-KLS-GIT?style=for-the-badge)
+![ASMEKLSGIT Org's forks](https://img.shields.io/github/forks/ASME-KLS-GIT/.github?style=for-the-badge)
+![ASMEKLSGIT's contributors](https://img.shields.io/github/contributors/ASME-KLS-GIT/.github?style=for-the-badge)
+![ASMEKLSGIT's GitHub commit activity](https://img.shields.io/github/commit-activity/m/ASME-KLS-GIT/.github?style=for-the-badge)
+
+
+---
 ## CONTRIBUTING TO THE ORGANISATION
 primary contributions to the organisation will be done through the ASME Student Section at KLSGIT, but external contributors are welcome.
 
